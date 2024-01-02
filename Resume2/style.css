@@ -1,0 +1,83 @@
+.profile-photo{
+    border-radius: 25px;
+    height: 10rem;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+}
+
+.sub-title{
+    font-family: 'Poppins', sans-serif;
+    color: #F8FAE5;
+}
+
+.green-background{
+    background-color: #43766C;
+}
+
+ul {
+    list-style: none;
+  }
+
+.brown-background{
+    background-color: #F8FAE5;
+}
+
+.education-list{
+    background-color: #43766C;
+    border-radius: 15px;
+    color: #F8FAE5;
+}
+
+.section-title{
+    font-family: 'Playfair Display', serif;
+    font-weight: 1000;
+}
+
+.blown-background{
+    background-color: #B19470;
+}
+
+.darkblownbackground{
+    background-color:#76453B ;
+}
+
+.footer{
+    font-size: 15px;
+}
+
+.blackgreen{
+    background-color: #7ED7C1;
+}
+
+.nav-pills {
+    --bs-nav-pills-border-radius: var(--bs-border-radius);
+    --bs-nav-pills-link-active-color: #fff;
+    --bs-nav-pills-link-active-bg: black;
+}
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: #000;
+    text-decoration: none;
+    background: 0 0;
+    border: 0;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.card-body{
+    height: 150px;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.skill-card{
+    color:#F8FAE5 ;
+}
